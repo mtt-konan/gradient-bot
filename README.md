@@ -1,9 +1,6 @@
 # Gradient network 挂机脚本
 
-- 项目地址：[https://app.gradient.network/](https://app.gradient.network/signup?code=EK8G9A)
-- 购买代理IP：[https://app.proxy-cheap.com](https://app.proxy-cheap.com/r/ksvW8Z)
-- 使用文档：<https://mirror.xyz/0xe8224b3E9C8d35b34D088BB5A216B733a5A6D9EA/jFFUw6Ew3rWThwMxXMoLaa1UMnV8axoQoMVN0EKEthY>
-- TG: <https://t.me/web3bothub>
+- 项目地址：[https://app.gradient.network/](https://app.gradient.network/signup?code=2HO8ST)
 
 ## 环境要求
 
@@ -102,12 +99,3 @@ pm2 status
 ## Contribution
 
 Feel free to contribute to this project by creating a pull request.
-
-## Support Me
-
-if you want to support me, you can donate to my address:
-
-- TRC20: `TMwJhT5iCsQAfmRRKmAfasAXRaUhPWTSCE`
-- ERC20: `0xa2f5b8d9689d20d452c5340745a9a2c0104c40de`
-- SOLANA: `HCbbrqD9Xvfqx7nWjNPaejYDtXFp4iY8PT7F4i8PpE5K`
-- TON: `UQBD-ms1jA9cmoo8O39BXI6jqh8zwRSoBMUAl4yjEPKD6ata`
